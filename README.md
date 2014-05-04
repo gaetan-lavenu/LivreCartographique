@@ -32,10 +32,9 @@ Pour commencer, vous devez installer et paramétrer l'application:
 [Publish the application](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/publish-application/)
 
 
-
 ## Contributing
 
-Esri welcomes contributions from anyone and everyone.
+Esri France accepte toute proposition de contribution pouvant améliorer cette application
 Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing

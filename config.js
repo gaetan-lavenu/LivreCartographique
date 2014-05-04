@@ -50,13 +50,14 @@ define([], function() {
         VimeoVideoUrl: "https://player.vimeo.com/video/",
 
         //The URL for your ArcGIS Online Organization or Portal for ArcGIS site.
-        PortalURL: "https://esrifrance.maps.arcgis.com",
+        PortalURL: "",
 
-        //Location of your proxy file
+        //Location of your proxy file (proxy.ashx or proxy.jsp depending on your web server)
         ProxyURL: "/proxy/proxy.ashx",
 
         //The unique tag given to each book. This tag will determine which books are visible in the Briefing Book application.
-        ConfigSearchTag: "Livre-Cartographique",
+        //ex: ConfigSearchTag: "Livre-Cartographique" 
+        ConfigSearchTag: "",
 
         //cookie/local storage name  for storing user credential
         Credential: "esribriefingbookcredential",
