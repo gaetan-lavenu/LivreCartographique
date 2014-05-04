@@ -1,42 +1,37 @@
-# Livre Cartographique
+# Livres Cartographiques
 
-Briefing Book is a configuration of ArcGIS and a JavaScript application that allows users to view and create map-based briefings and reports with interactive content.
+Le générateur de "Livres Cartographiques" est une application ArcGIS JavaScript qui permet aux utilisateurs de construire une présentation exposant des contenus interatifs dont des cartes web ArcGIS Online (ou Portal for ArcGIS).
 
-This application can be deployed by local, state, and national governments; utilities, NGOs, as well as private industries; to create and deliver dynamic and interactive briefings and reports for executives, decision-makers, knowledge-workers, and constituents.
+Cette application peut être déployée par toutes les organisations pour publier des documents dynamiques et interactifs pour les décideurs, vos collaborateurs, vos partenaires ou même le grand public. 
 
-The Briefing Book can be used to create new briefings and reports that include ArcGIS maps, videos, photos, and written text. The briefings and reports are stored in your ArcGIS Online Organization or Portal for ArcGIS site and can be shared with members of your organization or the general public. The Briefing Book presents briefings and reports you author on a single bookshelf optimized for tablet devices.
+Les Livres Cartographiques peuvent contenir des cartes web ArcGIS, des videos, des photos, des textes riches. Vos Livres Cartographiques sont stockés sur la plateforme ArcGIS Online (ou Portal for ArcGIS) de votre organisation. Comme avec n'mporte quelle autre ressource de votre portail, vos livres cartographiques peuvent être privés, partagés avec différents membres de votre organisation ou patagés publiquement. Vos livres cartographiques s'affichent dans un navigateur aussi bien sur des postes Desktop que sur des tablettes.
 
-[Try the Briefing Book application](http://50.112.45.253/briefingbook/default.htm)
+Le projet "Livre Cartographique" est une version française du projet d'Esri ["Briefing-book"](https://github.com/Esri/briefing-book) traduite et adaptée par Gaëtan LAVENU (Esri France).
 
-[![Image of Briefing Book application](briefing-book.png "Briefing Book application")](http://50.112.45.253/briefingbook/default.htm)
 
-## Features
+[Consulter un exemple de Livre Cartographique](http://195.154.180.110/LivreCartographique/default.htm)
 
-* Create briefings and reports including ArcGIS maps, videos, photos, and written text
-* Share books with the public or individuals 
+[![Image de l'application Livre Cartographique](briefing-book.png "Livre Cartographique")](http://195.154.180.110/LivreCartographique/default.htm)
+
+## Fonctionnalités
+
+* Créer une présentation incluant des cartes web ArcGIS, des vidéos, des photos et des textes riches
+* Partager votre présentation avec différents utilisateurs ou de manière publique 
 
 ## Instructions
 
-### General Help
+### Aide générale sur l'utilisation de GitHub (en anglais)
 [New to Github? Get started here.](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
 
-## Getting Started
+## Démarrer avec ce configurateur
 
-You'll need to configure and publish that application to get started:
+Pour commencer, vous devez installer et paramétrer l'application:
 
-[Configure the application](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/configure-application/)
+[Configurer l'application](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/configure-application/)
 
 [Publish the application](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/publish-application/)
 
-## Resources
 
-Learn more about Esri's [ArcGIS Solutions](http://solutions.arcgis.com/).
-
-Show me a list of other [Esri GitHub repositories](http://esri.github.io/).
-
-## Issues
-
-Find a bug or want to request a new feature?  Please let us know by submitting an issue.
 
 ## Contributing
 
@@ -45,21 +40,23 @@ Please see our [guidelines for contributing](https://github.com/esri/contributin
 
 ## Licensing
 
-Copyright 2013 Esri
+Copyright 2013 Esri / Esri France
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Cette application est publiée sous licence: Apache License, Version 2.0 (the "License");
+Vous ne devez pas utiliser les fichiers de ce projet en dehors des clauses de cette Licence.
+Les clauses de cette licence sont détaillées ici:
 
    http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
+Vous devez également prendre en compte les limitations suivante:
+
+"Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
-limitations under the License.
+limitations under the License.""
 
-A copy of the license is available in the repository's
+Une copie des clauses de la licence sApache Version 2.0 se trouve (en version originale) dans ce Repository GitHub
 [LICENSE.txt](LICENSE.txt) file.
 
 [](Esri Tags: Local-Government Local Government Briefing Book State-Government State Government ArcGIS Defense and Intelligence Military)
