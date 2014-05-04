@@ -27,9 +27,9 @@ Le projet "Livre Cartographique" est une version française du projet d'Esri ["B
 
 Pour commencer, vous devez installer et paramétrer l'application:
 
-[Configurer l'application](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/configure-application/)
+[Configurer l'application (reste à traduire)](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/configure-application/)
 
-[Publish the application](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/publish-application/)
+[Publier l'application (reste à traduire)](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/publish-application/)
 
 
 ## Contributing
@@ -55,8 +55,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.""
 
-Une copie des clauses de la licence sApache Version 2.0 se trouve (en version originale) dans ce Repository GitHub
-[LICENSE.txt](LICENSE.txt) file.
+Une copie des clauses de la licence Apache Version 2.0 se trouve dans ce Repository GitHub (en version originale anglaise)
+[LICENSE.txt](LICENSE.txt).
 
 [](Esri Tags: Local-Government Local Government Briefing Book State-Government State Government ArcGIS Defense and Intelligence Military)
 [](Esri Language: JavaScript)
